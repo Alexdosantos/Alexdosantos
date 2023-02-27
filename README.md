@@ -1,11 +1,12 @@
 # Alexsantos
 
+
 ### Olá! Eu sou o Alex dos Santos 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lekotty)
 [![Instagram](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexnisterroy/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Alex dos Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Aqui estão algumas das Tecnologias que utilizo no meu dia a dia
 
@@ -19,6 +20,4 @@
 
 
 
-
-</div>
 
