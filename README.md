@@ -19,6 +19,9 @@
   <img align ="center" alt="html" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align ="center" alt="html" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align ="center" alt="html" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img align ="center" alt="html" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/>
+  
+  
   
 
 
